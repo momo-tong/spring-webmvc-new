@@ -1,38 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@momo-tong 
-momo-tong
-/
-spring-webmvc-4.3.4
-Public
-Cannot fork because you own this repository and are not a member of any organizations.
-Code
-Issues
-17
-Pull requests
-11
-Discussions
-Actions
-Projects
-Wiki
-Security
-73
-Insights
-Settings
-spring-webmvc-4.3.4/pom.xml
-@momo-tong
-momo-tong Update pom.xml
-Latest commit ad0e96c on Jul 27, 2022
- History
- 1 contributor
-315 lines (315 sloc)  9.75 KB
-
 <?xml version="1.0" encoding="UTF-8"?>
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
@@ -348,17 +313,3 @@ Latest commit ad0e96c on Jul 27, 2022
     </dependency>
   </dependencies>
 </project>
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
